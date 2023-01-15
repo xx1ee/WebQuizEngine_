@@ -665,22 +665,7 @@ files:
         }
     }
   learner_created: false
-- name: src/resources/static/index.html
-  visible: true
-  learner_created: true
-- name: src/engine/repositories/UserRepository.java
-  visible: true
-  learner_created: true
-- name: src/engine/security/WebSecurityConfig.java
-  visible: true
-  learner_created: true
-- name: src/engine/security/BCryptEncoderConfig.java
-  visible: true
-  learner_created: true
-- name: src/engine/controllers/TaskController.java
-  visible: true
-  learner_created: true
-- name: src/engine/repositories/TaskRepository.java
+- name: src/engine/exeptions/IdNotFoundException.java
   visible: true
   learner_created: true
 - name: src/engine/exeptions/IsNotTheAuthorException.java
@@ -689,16 +674,39 @@ files:
 - name: src/engine/exeptions/UserWasRegister.java
   visible: true
   learner_created: true
+- name: src/engine/User.java
+  visible: true
+  learner_created: true
+- name: src/engine/SecurityConfiguration.java
+  visible: true
+  learner_created: true
+- name: src/engine/UserRepository.java
+  visible: true
+  learner_created: true
+- name: src/engine/Controller.java
+  visible: true
+  learner_created: true
+- name: src/engine/UserService.java
+  visible: true
+  learner_created: true
+- name: src/engine/Task.java
+  visible: true
+  learner_created: true
+- name: src/engine/TaskRepository.java
+  visible: true
+  learner_created: true
+- name: src/engine/TaskService.java
+  visible: true
+  learner_created: true
+- name: src/engine/Answer.java
+  visible: true
+  learner_created: true
+- name: src/engine/taskSolve.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/8256#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #153
-
-    DELETE /api/quizzes/0 should respond with status code 204, responded: 500
-
-    Response body:
-
-    {&quot;timestamp&quot;:&quot;2022-12-26T16:59:49.637+00:00&quot;,&quot;status&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;path&quot;:&quot;/api/quizzes/0&quot;}
-  time: Mon, 26 Dec 2022 16:59:50 UTC
-record: -1
+  message: Congratulations!
+  time: Tue, 27 Dec 2022 21:15:41 UTC
+record: 6

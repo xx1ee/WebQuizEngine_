@@ -5,166 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c2f0ae4-c983-428a-87b7-015a1c395e63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_autoconfigure_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_actuator_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_security_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_validation_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_config_5_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_core_5_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_crypto_5_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_web_5_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_aop_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_beans_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_context_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_core_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_expression_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_jcl_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_web_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_spring_webmvc_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/classes/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-classes-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/classes/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-classes-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/classes/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-classes-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/generated/sources/annotationProcessor/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/generated/sources/annotationProcessor/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/generated/sources/annotationProcessor/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/generated/sources/headers/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-generated-sources-headers-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/generated/sources/headers/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/generated/sources/headers/java/Web_Quiz_Engine.Web_Quiz_Engine-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/reports/tests/Web_Quiz_Engine.Web_Quiz_Engine-task-build-reports-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/reports/tests/Web_Quiz_Engine.Web_Quiz_Engine-task-build-reports-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/reports/tests/Web_Quiz_Engine.Web_Quiz_Engine-task-build-reports-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/test-results/Web_Quiz_Engine.Web_Quiz_Engine-task-build-test-results.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/test-results/Web_Quiz_Engine.Web_Quiz_Engine-task-build-test-results.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/test-results/Web_Quiz_Engine.Web_Quiz_Engine-task-build-test-results.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/tmp/Web_Quiz_Engine.Web_Quiz_Engine-task-build-tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/tmp/Web_Quiz_Engine.Web_Quiz_Engine-task-build-tmp.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/build/tmp/Web_Quiz_Engine.Web_Quiz_Engine-task-build-tmp.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing errors in main/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing errors in main/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing errors in main/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing errors in main/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing the main method/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing the main method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing the main method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Fixing the main method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  Hello, Java/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  Hello, Java/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  Hello, Java/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  Hello, Java/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  We are robots/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  We are robots/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  We are robots/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Print  We are robots/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Select correct main method/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Select correct main method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Select correct main method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Select correct main method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/The correct declaration/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/The correct declaration/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/The correct declaration/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/The correct declaration/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Who is the main/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Who is the main/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Who is the main/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/Who is the main/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/The main method/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topics/section-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Web Quiz Engine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced queries/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced queries/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced queries/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lots of quizzes/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lots of quizzes/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lots of quizzes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Making quizzes more interesting/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Making quizzes more interesting/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Making quizzes more interesting/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moving quizzes to DB/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moving quizzes to DB/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moving quizzes to DB/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solving a simple quiz/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solving a simple quiz/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solving a simple quiz/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User authorization/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User authorization/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User authorization/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quizdb.mv.db-real" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/WebQuizEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/controllers/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/engine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/exeptions/IdNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/models/Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/models/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/models/taskSolve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/repositories/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/security/BCryptEncoderConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/security/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/services/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/engine/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/test/tests/WebQuizEngineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_guava_guava_31_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_guava_guava_testlib_31_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_checkerframework_checker_qual_3_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_security_2_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_config_5_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_core_5_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_crypto_5_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_springframework_security_spring_security_web_5_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced queries/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced queries/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User authorization/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/User authorization/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/quizdb.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/task/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/task/src/engine/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/controllers/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/exeptions/IdNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/exeptions/IsNotTheAuthorException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/exeptions/UserWasRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/models/Answer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/models/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/models/taskSolve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/repositories/TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/security/BCryptEncoderConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/security/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/services/TaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/engine/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/task/src/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/src/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/test/tests/WebQuizEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/task/test/tests/WebQuizEngineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
