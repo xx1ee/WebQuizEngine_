@@ -814,9 +814,6 @@ files:
 - name: src/engine/TaskRepository.java
   visible: true
   learner_created: true
-- name: src/engine/TaskService.java
-  visible: true
-  learner_created: true
 - name: src/engine/taskSolve.java
   visible: true
   learner_created: true
@@ -835,22 +832,13 @@ files:
 - name: src/engine/CompletedRepository.java
   visible: true
   learner_created: true
-- name: src/engine/TaskRepositoryPage.java
-  visible: true
-  learner_created: true
 - name: src/engine/CompletedResponce.java
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/learn/step/8257#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #199
-
-    DELETE /api/quizzes/0 should respond with status code 204, responded: 500
-
-    Response body:
-
-    {&quot;timestamp&quot;:&quot;2023-01-15T10:55:35.497+00:00&quot;,&quot;status&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;path&quot;:&quot;/api/quizzes/0&quot;}
-  time: Sun, 15 Jan 2023 10:55:36 UTC
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Mon, 16 Jan 2023 13:40:39 UTC
 record: 7
