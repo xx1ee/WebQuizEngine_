@@ -1,6 +1,10 @@
-package engine;
+package engine.controllers;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+import engine.models.*;
+import engine.repos.CompletedRepository;
+import engine.repos.TaskRepository;
+import engine.repos.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -24,8 +28,6 @@ public class Controller {
 
     @Autowired
     private UserRepository userRepository;
-    @Autowired
-    private UserService userService;
     @Autowired
     private CompletedRepository completedRepository;
     @Autowired

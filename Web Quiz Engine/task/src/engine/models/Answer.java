@@ -1,4 +1,4 @@
-package engine;
+package engine.models;
 
 public class Answer {
     private boolean success;

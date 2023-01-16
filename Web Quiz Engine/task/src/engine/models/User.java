@@ -1,14 +1,13 @@
-package engine;
+package engine.models;
 
+import engine.models.Task;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import javax.persistence.*;
-import javax.validation.constraints.Email;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 
 @Entity
